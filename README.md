@@ -13,6 +13,11 @@ Built with ❤️ and code, this project brings back the nostalgic endless runne
 - 🌌 Inspired by the **Chrome Dino**, but designed to stand alone  
 
 ---
+## Game gif demo
+
+![Jumping Dino Gameplay](assets/dino.gif)
+
+---
 
 ## 🚀 How to Play
 1. Clone this repo:
@@ -20,5 +25,3 @@ Built with ❤️ and code, this project brings back the nostalgic endless runne
    git clone https://github.com/your-username/jumping-dino.git
    cd jumping-dino
 
-
-![Jumping Dino Gameplay](assets/dino.gif)
