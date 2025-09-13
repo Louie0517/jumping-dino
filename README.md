@@ -22,6 +22,6 @@ Built with ❤️ and code, this project brings back the nostalgic endless runne
 ## 🚀 How to Play
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/jumping-dino.git
+   git clone https://github.com/Louie0517/jumping-dino.git
    cd jumping-dino
 
